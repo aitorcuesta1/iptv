@@ -1,3 +1,15 @@
+#EXTINF:0,|ES| DAZN 1 FHD
+#EXTVLCOPT:network-caching=3000
+http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/150804
+#EXTINF:0,|ES| DAZN 1 HD
+#EXTVLCOPT:network-caching=3000
+http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/150803
+#EXTINF:0,|ES| DAZN 2 FHD
+#EXTVLCOPT:network-caching=3000
+http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/150802
+#EXTINF:0,|ES| DAZN 2 HD
+#EXTVLCOPT:network-caching=3000
+http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/150801
 #EXTINF:0,|ES| M. LCAMPEONES FHD ©
 #EXTVLCOPT:network-caching=3000
 http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/31967
