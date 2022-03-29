@@ -1,6 +1,9 @@
 #EXTINF:0,|ES| LA 1 FHD ©
 #EXTVLCOPT:network-caching=3000
 http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/11097
+#EXTINF:0,|ES| LA 1 ©
+#EXTVLCOPT:network-caching=3000
+http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/11096
 #EXTINF:0,|ES| CUATRO FHD ©
 #EXTVLCOPT:network-caching=3000
 http://pr-ip.xyz:8000/QLUn8DRnPL/cjXQTlNnmG/11076
